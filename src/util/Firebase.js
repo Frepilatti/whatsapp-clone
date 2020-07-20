@@ -12,7 +12,7 @@ export  class Firebase
             authDomain: "whtasapp-clo.firebaseapp.com",
             databaseURL: "https://whtasapp-clo.firebaseio.com",
             projectId: "whtasapp-clo",
-            storageBucket: "whtasapp-clo.appspot.com",
+            storageBucket: "gs://whtasapp-clo.appspot.com/",
             messagingSenderId: "370157911177",
             appId: "1:370157911177:web:70f6ec015a8a8a87a4da58",
             measurementId: "G-SGCENLGDZ3"
